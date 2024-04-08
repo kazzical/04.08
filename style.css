@@ -1,6 +1,14 @@
-
-
-
+h2{
+  color: green;
+}
+h2.apple{
+  color: red;
+}
+body{
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+}
 img {
     width: 150px;
     display: block;
