@@ -8,6 +8,7 @@ body{
   background-color: yellow;
   display: flex;
   align-items: center;
+  font-family: 'Courier New', Courier, monospace;
 }
 img {
     width: 150px;
